@@ -1,0 +1,13 @@
+[
+  {
+    "version": "0.3.26",
+    "versionCode": 326,
+    "webBuild": 0,
+    "date": "2026-10-26",
+    "title": "Unpublished source edition draft",
+    "changes": [
+      "English source edition under preparation, based on the historical 0.3.26 source snapshot.",
+      "Not equivalent to the newer deployed release."
+    ]
+  }
+]
